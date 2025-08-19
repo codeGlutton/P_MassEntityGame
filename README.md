@@ -19,21 +19,21 @@ Types
 
 ## Project Folder Rules (프로젝트 폴더 규칙)
 ```
-Contents/AC : Project Folder
-Contents/AC/SourceArt
-Contents/AC/SourceArt/SkletalMesh
-Contents/AC/SourceArt/StaticMesh
-Contents/AC/SourceArt/Animation
-Contents/AC/SourceArt/Texture
-Contents/AC/SourceArt/Material
-Contents/AC/SourceArt/VFX
-Contents/AC/SourceArt/Media
-Contents/AC/SourceArt/Sound
-Contents/AC/Map
-Contents/AC/Data : Curve, DataTable, Parameter Folder
-Contents/AC/Blueprint
-Contents/AC/Blueprint/AI : Behabior Tree, BlackBoard, EQS
-Contents/AC/Blueprint/Anim : Animation BP, AnimMontage
+Contents/MEG : Project Folder
+Contents/MEG/SourceArt
+Contents/MEG/SourceArt/SkletalMesh
+Contents/MEG/SourceArt/StaticMesh
+Contents/MEG/SourceArt/Animation
+Contents/MEG/SourceArt/Texture
+Contents/MEG/SourceArt/Material
+Contents/MEG/SourceArt/VFX
+Contents/MEG/SourceArt/Media
+Contents/MEG/SourceArt/Sound
+Contents/MEG/Map
+Contents/MEG/Data : Curve, DataTable, Parameter Folder
+Contents/MEG/Blueprint
+Contents/MEG/Blueprint/AI : Behabior Tree, BlackBoard, EQS
+Contents/MEG/Blueprint/Anim : Animation BP, AnimMontage
 
 Contents/Test : 각자 테스트 용도 에셋 폴더
 Contents/Test/각자 이름 : 각자 이름 폴더 내에서 사용하기
